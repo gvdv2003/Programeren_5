@@ -1,7 +1,9 @@
+# changelog Onderzoek
+
 ## 7-10-2024
 Mvc frameworks
 
-  CakePHP
+- CakePHP
 
 Programmeertaal: PHP
 
@@ -9,7 +11,7 @@ Voordelen: Gemakkelijk te leren met ingebouwde ORM en scaffolding.
 
 Nadelen: Prestaties kunnen minder zijn bij complexe toepassingen.
 
-  Django
+- Django
 
 Programmeertaal: Python
 
@@ -17,7 +19,7 @@ Voordelen: Zeer snel ontwikkelingsproces met een sterke ingebouwde admin interfa
 
 Nadelen: Minder geschikt voor zeer kleine of eenvoudigere projecten.
 
-  Ruby on Rails
+- Ruby on Rails
 
 Programmeertaal: Ruby
 
@@ -25,7 +27,7 @@ Voordelen: Zeer productief door 'convention over configuration' en een groot eco
 
 Nadelen: Kan traag zijn bij zware toepassingen en het heeft een steilere leercurve.
 
-  CherryPy
+- CherryPy
 
 Programmeertaal: Python
 
@@ -33,7 +35,7 @@ Voordelen: Lichtgewicht, minimalistisch en eenvoudig te integreren met andere to
 
 Nadelen: Mist sommige ingebouwde functies die robuustere frameworks zoals Django hebben.
 
-  FuelPHP
+- FuelPHP
 
 Programmeertaal: PHP
 
@@ -41,7 +43,7 @@ Voordelen: Flexibel en modulair, met ondersteuning voor zowel HMVC als MVC.
 
 Nadelen: Kleinere community en minder uitgebreide documentatie in vergelijking met andere PHP-frameworks.
 
-  AngularJS
+- AngularJS
 
 Programmeertaal: JavaScript
 
@@ -49,7 +51,7 @@ Voordelen: Sterke ondersteuning voor front-end ontwikkeling met data-binding en 
 
 Nadelen: Kan complex worden bij grotere applicaties en verouderde versie van Angular.
 
-  Apache Wicket
+- Apache Wicket
 
 Programmeertaal: Java
 
@@ -57,7 +59,7 @@ Voordelen: Scherpe scheiding tussen de logica en de view met een componentgebase
 
 Nadelen: Niet zo populair als andere Java-gebaseerde frameworks, waardoor er minder community support is.
 
-  Grails
+- Grails
 
 Programmeertaal: Groovy (werkt op de JVM)
 
@@ -65,7 +67,7 @@ Voordelen: Snel ontwikkelingsproces door de integratie van Groovy en het gebruik
 
 Nadelen: Heeft een grotere leercurve voor ontwikkelaars die niet bekend zijn met de JVM.
 
-  Laminas
+- Laminas
 
 Programmeertaal: PHP
 
@@ -82,8 +84,10 @@ Laminas
 
 
 ik heb de volgende programma's gekozen:
--FuelPHP
--AngularJS 
+
+- FuelPHP
+
+- AngularJS 
 
  
 
